@@ -1,0 +1,5 @@
+B101|Java Basics|Herbert Schildt|Programming|450.0|10
+B102|OOP in Java|Balagurusamy|Programming|520.0|8
+B103|Data Structures|Seymour Lipschutz|Programming|380.0|6
+B104|Wings of Fire|APJ Abdul Kalam|Biography|250.0|15
+B105|Electrical Machines|J.B. Gupta|Engineering|600.0|5
